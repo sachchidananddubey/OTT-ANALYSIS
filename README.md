@@ -4,7 +4,7 @@ This project analyzes user login and engagement behavior on an OTT (Over-the-Top
 
 ## Overview
 
-- **Timeframe**: Jan 2023 – Mar 2024 (15 months)
+- **Timeframe**: Jan 2025 – Mar 2026 (15 months)
 - **Tools Used**:  
   - SQL (BigQuery)  
   - Google Looker Studio  
