@@ -30,7 +30,7 @@ This is a synthetic dataset generated using generative AI for learning and portf
 - **Promotions**: promo types, dates, discounts
 
 Dataset links:
-- [viewers.csv](https://github.com/mayukh1403/OTT-Analysis/blob/main/Dataset%20CSV/viewers.csv)
+- [viewers.csv](https://github.com/sachchidananddubey/OTT-ANALYSIS/blob/main/viewers.csv)
 - [logins.csv](https://github.com/mayukh1403/OTT-Analysis/blob/main/Dataset%20CSV/logins.csv)
 - [sessions.csv](https://github.com/mayukh1403/OTT-Analysis/blob/main/Dataset%20CSV/sessions.csv)
 - [promotions.csv](https://github.com/mayukh1403/OTT-Analysis/blob/main/Dataset%20CSV/promotions.csv)
