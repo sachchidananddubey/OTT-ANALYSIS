@@ -35,30 +35,30 @@ Dataset links:
 - [sessions.csv](https://github.com/sachchidananddubey/OTT-ANALYSIS/blob/main/sessions.csv)
 - [promotions.csv](https://github.com/sachchidananddubey/OTT-ANALYSIS/blob/main/promotions.csv)
 
-## Key SQL Queries & Use Cases
+## Key Use Cases
 
-| Use Case | SQL Query |
-|----------|-----------|
-| Daily & Monthly Active Users (DAU/MAU Trends) | [DAU](Queries/Query1.sql) · [MAU](Queries/Query4.sql) |
-| Detect Inactive Users | [Query](Queries/Query2.sql) |
-| Weekly Engaged Users (3+ days/week) | [Query](Queries/Query3.sql) |
-| Avg. Session Duration by Region & Age | [Region](Queries/Query5.sql) · [Age Group](Queries/Query6.sql) |
-| Time from Signup to Last Login | [Query](Queries/Query7.sql) |
-| First Login Drop-off | [Query](Queries/Query8.sql) |
-| Login Channel vs. Retention | [Query](Queries/Query9.sql) |
-| Trial Users: Retention & Activity | [Query](Queries/Query13.sql) |
-| Promotion vs. Organic Viewer Sessions | [Query](Queries/Query14.sql) |
-| Signup Cohort Retention | [Query](Queries/Query12.sql) |
-| Viewer Churn by Country | [Query](Queries/Query17.sql) |
+| Use Case |
+|----------|
+| Daily & Monthly Active Users (DAU/MAU Trends) 
+| Detect Inactive Users |
+| Weekly Engaged Users (3+ days/week) | 
+| Avg. Session Duration by Region & Age | 
+| Time from Signup to Last Login | 
+| First Login Drop-off | 
+| Login Channel vs. Retention | 
+| Trial Users: Retention & Activity | 
+| Promotion vs. Organic Viewer Sessions | 
+| Signup Cohort Retention | 
+| Viewer Churn by Country | 
 
-Explore all queries [here](https://github.com/mayukh1403/OTT-Analysis/tree/main/Queries)
+Explore all queries [here](https://github.com/sachchidananddubey/OTT-ANALYSIS/tree/main/Queries)
 
 ## Dashboard & Visualizations
 
 Built using Looker Studio:
 
 - [Live Dashboard](https://lookerstudio.google.com/u/0/reporting/b142085d-ce40-470e-82ea-d555ca43d3f4/page/p_rc75fgeutd)
-- [PDF Summary Report](https://github.com/mayukh1403/OTT-Analysis/blob/main/OTT_User_Activity_-_Visualization.pdf)
+- [PDF Summary Report](https://github.com/sachchidananddubey/OTT-ANALYSIS/blob/main/OTT_User_Activity_-_Visualization.pdf)
 
 Included:
 - DAU & MAU Trends
